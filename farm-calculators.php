@@ -8,10 +8,10 @@ Description: Add farm calculators to your website to help users determine variou
 
 Version: 0.6
 Author: Bryce Johnston
-Author URI: http://www.cropquest.com/farm-calculators
+Author URI: https://github.com/CropQuest/farm-calculators
 
-****************************************************************************************** 
-  Copyright (C) 2014 Bryce Johnston (email: bjohnston@cropquest.com)
+******************************************************************************************
+  Copyright (C) 2016 Bryce Johnston (email: johnstonbrc@gmail.com)
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -48,7 +48,7 @@ function farming_calc_crop_population_shortcode() {
       'class' => 'farmCalculator',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>
@@ -86,7 +86,7 @@ function farming_calc_crop_population_bs_shortcode() {
       'class' => 'farmCalculator span3',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>
@@ -117,7 +117,7 @@ function farming_calc_crop_population_hoop_shortcode() {
       'class' => 'farmCalculator',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>
@@ -151,7 +151,7 @@ function farming_calc_crop_population_hoop_bs_shortcode() {
       'class' => 'farmCalculator span3',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>
@@ -180,7 +180,7 @@ function farming_calc_wheat_harvest_yield_loss_shortcode() {
       'class' => 'farmCalculator',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>
@@ -215,7 +215,7 @@ function farming_calc_wheat_harvest_yield_loss_bs_shortcode() {
       'class' => 'farmCalculator span3',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>
@@ -244,7 +244,7 @@ function farming_calc_sorghum_harvest_yield_loss_shortcode() {
       'class' => 'farmCalculator',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>
@@ -279,7 +279,7 @@ function farming_calc_sorghum_harvest_yield_loss_bs_shortcode() {
       'class' => 'farmCalculator span3',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>
@@ -308,7 +308,7 @@ function farming_calc_soybean_harvest_yield_loss_shortcode() {
       'class' => 'farmCalculator',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>
@@ -343,7 +343,7 @@ function farming_calc_soybean_harvest_yield_loss_bs_shortcode() {
       'class' => 'farmCalculator span3',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>
@@ -372,7 +372,7 @@ function farming_calc_sunflower_harvest_yield_loss_shortcode() {
       'class' => 'farmCalculator',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>
@@ -407,7 +407,7 @@ function farming_calc_sunflower_harvest_yield_loss_bs_shortcode() {
       'class' => 'farmCalculator span3',
       ), $atts ) );
 
-$class = esc_attr($class); 
+$class = esc_attr($class);
 
 $code = '<div class="'.$class.'">
 <form>

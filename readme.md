@@ -1,8 +1,8 @@
 # Farm-Calculators  
 
-Contributors: wingdspur  
+Contributors: brycejohnston  
 Requires at least: 3.0  
-Tested up to: 3.9  
+Tested up to: 4.6  
 Stable tag: 0.6  
 Tags: farm, crop, farming, calculator, yield, population, agriculture  
 License: GPLv3 or later  
@@ -55,15 +55,18 @@ More shortcodes will follow soon.
 
 1. Upload the full `farm-calculators` directory into your `wp-content/plugins` directory.
 
-2. Activate the plugin through the 'Plugins' menu in WordPress. 
+2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 3. Use the calculator shortcodes wherever you would like to display them to your visitors.  
 
 ## Screenshots  
 
-![Screenshot 1](https://raw.github.com/wingdspur/farm-calculators/master/screenshot-1.png)
+![Screenshot 1](https://raw.github.com/CropQuest/farm-calculators/master/screenshot-1.png)
 
 ## Changelog  
+
+### 0.6  
+* Bump compatibility information.
 
 ### 0.5  
 * Minor spelling and wording adjustments.
