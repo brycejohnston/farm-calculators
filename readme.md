@@ -61,7 +61,7 @@ More shortcodes will follow soon.
 
 ## Screenshots  
 
-![Screenshot 1](https://raw.github.com/CropQuest/farm-calculators/master/screenshot-1.png)
+![Screenshot 1](https://raw.github.com/brycejohnston/farm-calculators/master/screenshot-1.png)
 
 ## Changelog  
 

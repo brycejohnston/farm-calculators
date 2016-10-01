@@ -8,7 +8,7 @@ Description: Add farm calculators to your website to help users determine variou
 
 Version: 0.6
 Author: Bryce Johnston
-Author URI: https://github.com/CropQuest/farm-calculators
+Author URI: https://github.com/brycejohnston/farm-calculators
 
 ******************************************************************************************
   Copyright (C) 2016 Bryce Johnston (email: johnstonbrc@gmail.com)
