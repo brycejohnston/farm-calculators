@@ -11,7 +11,7 @@ Author: Bryce Johnston
 Author URI: https://github.com/brycejohnston/farm-calculators
 
 ******************************************************************************************
-  Copyright (C) 2017 Bryce Johnston (email: johnstonbrc@gmail.com)
+  Copyright (C) 2017 Bryce Johnston (email: bryce@agdeveloper.com)
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
