@@ -8,10 +8,10 @@ Description: Add farm calculators to your website to help users determine variou
 
 Version: 0.6
 Author: Bryce Johnston
-Author URI: https://github.com/brycejohnston/farm-calculators
+Author URI: https://github.com/beaorn/farm-calculators
 
 ******************************************************************************************
-  Copyright (C) 2017 Bryce Johnston (email: bryce@agdeveloper.com)
+  Copyright (C) 2017 Bryce Johnston
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by

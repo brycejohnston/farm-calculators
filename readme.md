@@ -1,6 +1,6 @@
 # Farm-Calculators  
 
-Contributors: brycejohnston  
+Contributors: beaorn  
 Requires at least: 3.0  
 Tested up to: 4.6  
 Stable tag: 0.6  
